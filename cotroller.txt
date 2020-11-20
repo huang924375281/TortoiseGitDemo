@@ -1,0 +1,2 @@
+main{
+ prud("hello world");}
